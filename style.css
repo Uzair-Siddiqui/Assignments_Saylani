@@ -1,0 +1,30 @@
+div{
+    position:relative;
+    padding: 1px;
+    margin-top: 1px;
+    background-color: #316DC3;
+    color: #fff;
+    height:60px;
+}
+ul{
+    list-style: none;
+    margin-left: 80px;
+    padding: 1px;
+
+}
+li{
+    border: none;
+    padding: 1px;
+    display: inline-block;
+    align-content: center;
+    background-color: #316DC3;
+    color: #fff;
+}
+img:hover{
+    color: #316DC3;
+}
+img{ 
+    width: 30px;
+    height: 30px;
+}
+    
